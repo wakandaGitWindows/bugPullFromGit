@@ -12,6 +12,10 @@
 			"path": "WEBFOLDER"
 		},
 		{
+			"id": "Widget/dataGrid",
+			"type": "widget"
+		},
+		{
 			"package": "default"
 		},
 		{
