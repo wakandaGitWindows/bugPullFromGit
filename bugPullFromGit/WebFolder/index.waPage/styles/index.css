@@ -4,11 +4,10 @@
 */
 
 #dataGrid1 {
-	z-index: 4;
 	width: 300px;
 	height: 300px;
-	top: 345px;
-	left: 465px;
+	top: 234px;
+	left: 368px;
 	position: absolute;
 }
 
