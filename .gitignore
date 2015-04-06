@@ -27,3 +27,5 @@ sessionID.json
 # Wakanda Remote Model Cache
 *.waRemoteModel
 
+
+/bugPullFromGit/WebFolder/index.waPage/Untitled1.js
